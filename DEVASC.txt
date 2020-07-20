@@ -1,0 +1,8 @@
+
+
+At this rate i will be ready for exam in no time.
+<<<<<<< HEAD
+=======
+ I am a git novice. hurray!
+>>>>>>> test
+ Adding new line for testing purpose
