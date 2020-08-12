@@ -6,3 +6,4 @@ At this rate i will be ready for exam in no time.
  I am a git novice. hurray!
 >>>>>>> test
  Adding new line for testing purpose
+ Hello my name is Ani
